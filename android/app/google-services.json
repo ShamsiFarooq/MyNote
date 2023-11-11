@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342139007224",
+    "project_id": "noteapp-c04fa",
+    "storage_bucket": "noteapp-c04fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342139007224:android:7087ba7ec6a498f0f48b0d",
+        "android_client_info": {
+          "package_name": "in.shamsi.mynote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABz-kayWZ_HNf5OX7rnT_Qu15mEjnJ27A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
